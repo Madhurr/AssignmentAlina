@@ -1,0 +1,6 @@
+framework module Pods_AlinaAssignment_AlinaAssignmentUITests {
+  umbrella header "Pods-AlinaAssignment-AlinaAssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
